@@ -8,7 +8,6 @@ Exercício em Java sobre polimorfismo, herança, classes e métodos abstratos.  
 <p align="center">
   <a href="#rocket-tecnologia">Tecnologias</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
   <a href="#computer-projeto">Projeto</a>&nbsp;&nbsp;&nbsp;|&nbsp;&nbsp;&nbsp;
-  <a href="#memo-licença">Licença</a>
 </p>
 
 <p align="center">
@@ -70,7 +69,5 @@ TOTAL TAXES: $ 97000.00
 #### Diagrama
 
 ![myImage](https://github.com/devsuperior/aulao007/raw/master/domain-model.png)
-## :memo: Licença
 
-Esse projeto está sob a licença MIT.
 
